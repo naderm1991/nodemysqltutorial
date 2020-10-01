@@ -6,7 +6,9 @@
 
 //const express = require('express');
 //const mysql = require('mysql');
-
+//1-
+const express = require('express');
+const mysql = require('mysql');
 
 
 //require - ceateconncetion-get-let-query
